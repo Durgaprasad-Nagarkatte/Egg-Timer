@@ -36,7 +36,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textSize="70sp"
-        android:text="00:30" />
+        android:text="0:30" />
 
     <Button
         android:layout_width="wrap_content"
